@@ -160,6 +160,7 @@ exec --no-startup-id urxvtd -q -o -f &
 exec --no-startup-id fbxkb 
 exec --no-startup-id setxkbmap -layout "us,lt,ru" -option "grp:ctrl_shift_toggle"
 exec --no-startup-id xautolock -time 10 -locker 'i3lock' &
+exec --no-startup-id notify-send -a i3 "loaded" "Welcome to i3."
 
 #Floating
 for_window [class="Viewnior"] floating enable
