@@ -2,4 +2,4 @@
 This is simple and minimal i3wm config with custom scripts for i3bloks
 
 Screen:
-![Screenshot](screen.png?raw=true "Bussy")
+![Screenshot](screen_1.png?raw=true "Bussy")
