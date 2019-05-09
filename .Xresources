@@ -1,9 +1,8 @@
 Xft.dpi:       96
-Xft.antialias: true
-Xft.hinting:   true
-Xft.rgba:      rgb
-Xft.autohint:  false
+Xft.antialias: 1
+Xft.hinting: 1
 Xft.hintstyle: hintslight
+Xft.rgba: rgb
 Xft.lcdfilter: lcddefault
 
 ! XTerm
@@ -64,10 +63,10 @@ XTerm*faceSize: 11
 
 
 
-URxvt.font: xft:Iosevka Term:style=medium:size=13
-URxvt.boldFont: xft:Iosevka Term:style=bold:size=13
-URxvt.italicFont: xft:Iosevka Term:style=italic:size=13
-URxvt.boldItalicFont: xft:Iosevka Term:style=medium:size=13
+URxvt.font: xft:Ubuntu Mono:style=regular:size=13
+URxvt.boldFont: xft:Ubuntu Mono:style=bold:size=13
+URxvt.italicFont: xft:Ubuntu Mono:style=italic:size=13
+URxvt.boldItalicFont: xft:Ubuntu Mono:style=italic:size=13
 
 
 
