@@ -1,7 +1,10 @@
 # Simple-i3wm-config
-This is simple and minimal i3wm config with custom scripts for i3bloks
+This is simple and minimal i3wm config with custom scripts for i3bloks.
+
+Dependencies:
+`xloadimage, lm-sensors, i3blocks, rxvt-unicode-256color, xclip, mpd, mpc, libnotify-bin`
 
 Screen:
-![Screenshot](screen_1.png?raw=true "Bussy")
+![Screenshot](screen_2.png?raw=true "Bussy")
 
 ![Screenshot](screen.png?raw=true "Terminals")
