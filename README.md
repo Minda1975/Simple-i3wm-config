@@ -14,4 +14,4 @@ Screen:
 
 ![Screenshot](screen.png?raw=true "Terminals")
 
-![Please do not theme this app](https://stopthemingmy.app/badge.svg)
+![Screenshot](screen_1.png?raw=true "Bussy")
