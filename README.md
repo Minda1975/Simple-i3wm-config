@@ -10,6 +10,8 @@ P.S.
 I added config for fonts (in folder ~/.config/fontconfig/fonts.conf, because default fonts in Debian 9 sucks 🤧
 Happy computing!😃🔬
 
+Also added config for vim. I used it with plugin manager Pathogen...
+
 Screen:
 ![Screenshot](screen_2.png?raw=true "Bussy")
 
