@@ -39,3 +39,13 @@ zstyle ':completion:*:kill:*' command 'ps -u $USER -o pid,%cpu,tty,cputime,cmd'
 source /usr/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 POWERLEVEL9K_MODE='awesome-patched'
 source  ~/powerlevel9k/powerlevel9k.zsh-theme
+source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
+export GOPATH=$HOME/go
+
+# Add go binaries
+if [ -d "$GOPATH" ]; then export PATH="$GOPATH/bin:$PATH"
+elif [[ $commands[go] ]]; then export PATH="$(go env GOPATH)/bin:$PATH"
+fi
+
+
+
